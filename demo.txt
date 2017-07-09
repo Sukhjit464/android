@@ -2,3 +2,4 @@ demo file...
 first change made in demo.txt
 second change
 third change , will be commited in new branch
+
